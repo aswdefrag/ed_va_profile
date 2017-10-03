@@ -1,0 +1,15 @@
+var
+securemode - false
+orbits - false
+assist - true
+isdriveassist - true
+turret - false
+confirmdrop - false
+scoop - false
+chaffrotation - false
+gear - false
+
+сommstarget - false
+commswing - false
+commsreply - false
+checkcomms - false
